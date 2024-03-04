@@ -1,0 +1,301 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.15f1 (b58023a2b463) revision 11894819'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreSingleLanguage' Language: 'tr' Physical Memory: 7933 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.15f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/casper/Desktop/Google Unity/Google/YeniOyun2
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+50889
+Successfully changed project path to: C:/Users/casper/Desktop/Google Unity/Google/YeniOyun2
+C:/Users/casper/Desktop/Google Unity/Google/YeniOyun2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [17704] Host "[IP] 192.168.1.37 [Port] 0 [Flags] 2 [Guid] 4092097110 [EditorId] 4092097110 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QC8BM8M) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [17704] Host "[IP] 192.168.1.37 [Port] 0 [Flags] 2 [Guid] 4092097110 [EditorId] 4092097110 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QC8BM8M) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 11.80 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.15f1 (b58023a2b463)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.15f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/casper/Desktop/Google Unity/Google/YeniOyun2/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f9d)
+    Vendor:   NVIDIA
+    VRAM:     3950 MB
+    Driver:   31.0.15.2824
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.15f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.15f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56656
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008212 seconds.
+- Loaded All Assemblies, in  0.369 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.261 seconds
+Domain Reload Profiling: 628ms
+	BeginReloadAssembly (117ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (167ms)
+		LoadAssemblies (115ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (165ms)
+			TypeCache.Refresh (164ms)
+				TypeCache.ScanAssembly (149ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (262ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (199ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (134ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.094 seconds
+Refreshing native plugins compatible for Editor in 10.93 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.620 seconds
+Domain Reload Profiling: 1705ms
+	BeginReloadAssembly (216ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (59ms)
+	LoadAllAssembliesAndSetupDomain (768ms)
+		LoadAssemblies (712ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (204ms)
+			TypeCache.Refresh (169ms)
+				TypeCache.ScanAssembly (148ms)
+			ScanForSourceGeneratedMonoScriptInfo (28ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (620ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (459ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (67ms)
+			ProcessInitializeOnLoadAttributes (318ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 16.52 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4064 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 70 unused Assets / (244.4 KB). Loaded Objects now: 4520.
+Memory consumption went from 148.9 MB to 148.7 MB.
+Total: 5.453400 ms (FindLiveObjects: 0.582300 ms CreateObjectMapping: 0.249000 ms MarkObjects: 4.311400 ms  DeleteObjects: 0.307900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 892045.390341 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_19 1.asset
+  artifactKey: Guid(8563c4bb7deef0447ae552283cef85ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_19 1.asset using Guid(8563c4bb7deef0447ae552283cef85ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93e79575c49c785f563f1180bdaaba6') in 0.119226 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_16.asset
+  artifactKey: Guid(b9c80c769e92ede449e31afe0eebceb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_16.asset using Guid(b9c80c769e92ede449e31afe0eebceb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb5c5b90e7db838e1d3481740117217') in 0.015628 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_8 1.asset
+  artifactKey: Guid(b8d08e83a9cba4c49b7257f574241f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_8 1.asset using Guid(b8d08e83a9cba4c49b7257f574241f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1fcb357c22c03d7f28c6b5e8f531350') in 0.013356 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_13 1.asset
+  artifactKey: Guid(564202b3ee9dcd54eb59964117a709e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_13 1.asset using Guid(564202b3ee9dcd54eb59964117a709e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765da1447f7886549f63547208b47ad1') in 0.012818 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_18 1.asset
+  artifactKey: Guid(d644c120fed38ed4cae28da3ca3f0f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_18 1.asset using Guid(d644c120fed38ed4cae28da3ca3f0f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73692699174096d728a44591fa442b8f') in 0.013463 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_13.asset
+  artifactKey: Guid(c0b55d7f0f5b9664481ae1e30127389a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_13.asset using Guid(c0b55d7f0f5b9664481ae1e30127389a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e5a0d1ae48d7ff559f99a7bec7c2ea8') in 0.013485 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_19.asset
+  artifactKey: Guid(5fa673702d518c54884b6ac925992f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_19.asset using Guid(5fa673702d518c54884b6ac925992f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc799a75444f9f4a716c5948786d9f5c') in 0.015248 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_17 1.asset
+  artifactKey: Guid(1a0f91ca9cd31694a98ff869b9184015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_17 1.asset using Guid(1a0f91ca9cd31694a98ff869b9184015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb800665e4d0a176c79ea9e419c00618') in 0.014192 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_14 1.asset
+  artifactKey: Guid(d0b28f98d563a834ab48e08b02aec75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_14 1.asset using Guid(d0b28f98d563a834ab48e08b02aec75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a54dc8ad2d6f56e9ad4c97f8d27a6a') in 0.015918 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_16 1.asset
+  artifactKey: Guid(2fb9af5a094cddf45a71225356d23ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_16 1.asset using Guid(2fb9af5a094cddf45a71225356d23ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f25fb6556ae5321485e31cee5745284') in 0.010574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_9 1.asset
+  artifactKey: Guid(cb1ed5a7e32797a4eb1ff2a564c31dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_9 1.asset using Guid(cb1ed5a7e32797a4eb1ff2a564c31dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da3c780743dcf53a2371a40ddb2c727') in 0.014425 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_18.asset
+  artifactKey: Guid(818fdb149e86bd04aa2a61955f22e02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_18.asset using Guid(818fdb149e86bd04aa2a61955f22e02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c0ba11018040dea4aa1c517be2204c') in 0.012191 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_22 1.asset
+  artifactKey: Guid(32744a0f5e4d8b949882aa5908d599e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_22 1.asset using Guid(32744a0f5e4d8b949882aa5908d599e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c3ae19198a1113b5ea6fb1b207cfc10') in 0.014933 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_20.asset
+  artifactKey: Guid(850a8573a3a56fd42b15789eb46a9dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_20.asset using Guid(850a8573a3a56fd42b15789eb46a9dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec4c40e6e22df045eb62cbf927ebf3c0') in 0.015036 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Textures/sokoban_tilesheet@2_6 1.asset
+  artifactKey: Guid(6ba9dc754f536c74faa727f314916cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/sokoban_tilesheet@2_6 1.asset using Guid(6ba9dc754f536c74faa727f314916cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '414564c250e63a05331e6505a604d843') in 0.011820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
